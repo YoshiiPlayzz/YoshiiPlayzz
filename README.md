@@ -6,5 +6,5 @@ at Hochtaunusschule👨‍🎓!
 * At the moment I'm learning: Python, Dart, Assembler.
 * Currently I'm developing an App with a team of 2 in Dart.
 
-More informations comming soon!
+![Metrics](https://github.com/YoshiiPlayzz/YoshiiPlayzz/blob/master/metrics.classic.svg)
 
