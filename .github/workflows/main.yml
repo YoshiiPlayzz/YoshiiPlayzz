@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  schedule:
+  - cron: "0 0 * * *"
+  workflow_dispatch:
+  push: {branches: ["master"]}
+jobs:
+  github-metrics:
+    name: Metrics embeded
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@v3.28
+      with:
+        filename: metrics.classic.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, repositories
+        plugin_lines: yes
