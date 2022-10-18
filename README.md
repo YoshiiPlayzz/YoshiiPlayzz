@@ -19,7 +19,7 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
   
 
 
-### Finished projects 
+### Finished/discontinued projects 
 
 * [Home Plugin](https://github.com/YoshiiPlayzz/HomePlugin)
   * Easy to use Home plugin for Minecraft Spigot servers
@@ -28,7 +28,10 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
   * project with two other classmates ([@JoFyDo](https://github.com/JoFyDo), [@Nikinjo21](https://github.com/Nikinjo21)) at Hochtaunusschule
   * creates a JFrame where you can play Black Jack in singleplayer mode
   * nice animations
-
+* [Schulportal Hessen App](https://github.com/Schulportal-Hessen-App/Schulportal-Hessen-App) ***(DISCONTINUED)***
+  * nice way to display the "Schulportal Hessen" on mobile devices
+  * webscraper
+  * written in Dart and Flutter
 
 ## Contact informations
 * **Email:** [yoshiiplayzz@gmail.com](mailto:yoshiiplayzz@gmail.com?subject=Github%20Contact) 
