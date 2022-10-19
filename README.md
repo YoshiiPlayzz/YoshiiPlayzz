@@ -10,13 +10,16 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
 
 ### Currently active/planned projects
 
+
 #### __WIP__ (Work in progress)
 * [GorT/**G***arten***or***ganisations* **T**ool](https://github.com/YoshiiPlayzz/GorT)
   * Webinterface to display current voltage/current flow/energy stored of Victron smart solar controller
   * Reservation tool for events/partys 
   * Written in python
+* [Spotify Lightshow with Home Assistant](https://github.com/YoshiiPlayzz/spotify_light_show)
+  * little app that controls a specific light entity and syncs it with the current title playing on Spotify
+  * written in Python
  
-  
 
 
 ### Finished/discontinued projects 
