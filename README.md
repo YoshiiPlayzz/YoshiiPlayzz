@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Joshua
-I am 20 years old (10/23/02),
+I am 21 years old (10/23/02),
 I live near Frankfurt am Main, Germany and have been studying "Electrical Engineering and Information Technology" at the TU Darmstadt since October 1, 2022
 
 ![Metrics](https://github.com/YoshiiPlayzz/YoshiiPlayzz/blob/main/metrics.classic.svg)
