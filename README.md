@@ -12,14 +12,15 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
 
 
 #### __WIP__ (Work in progress)
-* [GorT/**G***arten***or***ganisations* **T**ool](https://github.com/YoshiiPlayzz/GorT)
-  * Webinterface to display current voltage/current flow/energy stored of Victron smart solar controller
-  * Reservation tool for events/partys 
-  * Written in python
+
 * [Spotify Lightshow with Home Assistant](https://github.com/YoshiiPlayzz/spotify_light_show)
   * little app that controls a specific light entity and syncs it with the current title playing on Spotify
   * written in Python
- 
+* [ESPHome-Huawei-LTE](https://github.com/YoshiiPlayzz/ESPHome-Huawei-LTE)
+  * ESPHome custom component that connects with Huawei LTE Router and collect data and publish
+* [FuCaN-Chrome-Addon](https://github.com/YoshiiPlayzz/FUCaN-Chromium-Addon)
+  * Change design of old looking TUCaN (TU Darmstadt Campus-Management-System)
+  * fork of [Better-TUCaM](https://github.com/JonasEmrich/Better-TUCaN)
 
 
 ### Finished/discontinued projects 
@@ -31,6 +32,10 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
   * project with two other classmates ([@JoFyDo](https://github.com/JoFyDo), [@Nikinjo21](https://github.com/Nikinjo21)) at Hochtaunusschule
   * creates a JFrame where you can play Black Jack in singleplayer mode
   * nice animations
+* [GorT/**G***arten***or***ganisations* **T**ool](https://github.com/YoshiiPlayzz/GorT)  ***(DISCONTINUED)***
+  * Webinterface to display current voltage/current flow/energy stored of Victron smart solar controller
+  * Reservation tool for events/partys 
+  * Written in python
 * [Schulportal Hessen App](https://github.com/Schulportal-Hessen-App/Schulportal-Hessen-App) ***(DISCONTINUED)***
   * nice way to display the "Schulportal Hessen" on mobile devices
   * webscraper
