@@ -12,10 +12,6 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
 
 
 #### __WIP__ (Work in progress)
-
-* [Spotify Lightshow with Home Assistant](https://github.com/YoshiiPlayzz/spotify_light_show)
-  * little app that controls a specific light entity and syncs it with the current title playing on Spotify
-  * written in Python
 * [ESPHome-Huawei-LTE](https://github.com/YoshiiPlayzz/ESPHome-Huawei-LTE)
   * ESPHome custom component that connects with Huawei LTE Router and collect data and publish
 * [FuCaN-Chrome-Addon](https://github.com/YoshiiPlayzz/FUCaN-Chromium-Addon)
@@ -24,7 +20,9 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
 
 
 ### Finished/discontinued projects 
-
+* [Spotify Lightshow with Home Assistant](https://github.com/YoshiiPlayzz/spotify_light_show)
+  * little app that controls a specific light entity and syncs it with the current title playing on Spotify
+  * written in Python
 * [Home Plugin](https://github.com/YoshiiPlayzz/HomePlugin)
   * Easy to use Home plugin for Minecraft Spigot servers
   * Mending/special enchantment checker for libarians
