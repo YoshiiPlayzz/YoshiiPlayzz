@@ -12,6 +12,11 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
 
 
 #### __WIP__ (Work in progress)
+* HuaweiLTE Presence Sensor (currently private)
+  * Capture connection of tracked devices (if is connected/disconnected to WiFi)
+  * Read current and monthly statistics
+  * Send back to HomeAssistant via [ha_mqtt_discoverable](https://github.com/unixorn/ha-mqtt-discoverable) to perform automations e.g. turn off cameras
+  * Used in remote location without direct connection to HomeAssistant server (handled over MQTT)
 * [FuCaN-Chrome-Addon](https://github.com/YoshiiPlayzz/FUCaN-Chromium-Addon)
   * Change design of old looking TUCaN (TU Darmstadt Campus-Management-System)
   * fork of [Better-TUCaM](https://github.com/JonasEmrich/Better-TUCaN)
