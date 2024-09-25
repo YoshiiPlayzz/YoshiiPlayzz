@@ -12,8 +12,6 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
 
 
 #### __WIP__ (Work in progress)
-* [ESPHome-Huawei-LTE](https://github.com/YoshiiPlayzz/ESPHome-Huawei-LTE)
-  * ESPHome custom component that connects with Huawei LTE Router and collect data and publish
 * [FuCaN-Chrome-Addon](https://github.com/YoshiiPlayzz/FUCaN-Chromium-Addon)
   * Change design of old looking TUCaN (TU Darmstadt Campus-Management-System)
   * fork of [Better-TUCaM](https://github.com/JonasEmrich/Better-TUCaN)
@@ -38,6 +36,8 @@ I live near Frankfurt am Main, Germany and have been studying "Electrical Engine
   * nice way to display the "Schulportal Hessen" on mobile devices
   * webscraper
   * written in Dart and Flutter
+* [ESPHome-Huawei-LTE](https://github.com/YoshiiPlayzz/ESPHome-Huawei-LTE) ***(DISCONTINUED)***
+  * ESPHome custom component that connects with Huawei LTE Router and collect data and publish
 
 ## Contact informations
 * **Email:** [yoshiiplayzz@gmail.com](mailto:yoshiiplayzz@gmail.com?subject=Github%20Contact) 
